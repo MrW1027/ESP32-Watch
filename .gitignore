@@ -1,0 +1,35 @@
+# PlatformIO
+.pio/
+.pio
+build/
+
+# VSCode
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+.vscode/*.db
+
+# Compiled output
+*.o
+*.a
+*.elf
+*.bin
+*.map
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Log files
+*.log
+
+# Dependency cache (uncomment if you don't want to commit)
+# .pio/libdeps/
